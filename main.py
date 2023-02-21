@@ -25,3 +25,5 @@ book = books[0]
 rank = book.find('span', class_= 'zg-bdg-text').text[1:]
 #get info from first book
 print(rank)
+
+title= "_cDEzb_p13n-sc-css-line-clamp-1_1Fn1y"
